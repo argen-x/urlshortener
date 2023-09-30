@@ -1,3 +1,4 @@
 # URL Shortener Microservice
 
-This is the boilerplate code for the URL Shortener Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice.
+This is a straightforward URL Shortener Microservice designed to quickly convert long URLs into concise, shareable links. It simplifies the process of shortening URLs, making them more manageable for sharing in a hassle-free manner. An ideal solution for anyone seeking a  efficient URL shortening service.
+
